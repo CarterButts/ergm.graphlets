@@ -1,0 +1,25 @@
+Package: ergm.graphlets
+Type: Package
+Title: ERG Modeling Based on Graphlet Properties
+Version: 1.0.4
+Date: 2020-03-05
+Authors@R: c( person("Omer Nebil", "Yaveroglu", role=c("aut"), email="o.yaveroglu10@imperial.ac.uk"), 
+        person("Sean M.", "Fitzhugh", role=c("aut"), email="sean.fitzhugh@uci.edu"), 
+        person("Maciej", "Kurant", role=c("aut"), email="maciej.kurant@gmail.com"), 
+        person("Athina", "Markopoulou", role=c("aut"), email="athina@uci.edu"),
+        person("Natasa", "Przulj", role=c("aut"), email="natasha@imperial.ac.uk"),
+        person("Carter T.", "Butts", role=c("aut","cre"), email="buttsc@uci.edu"))
+LinkingTo: ergm
+Suggests: parallel, rlecuyer
+Depends: network (>= 1.7-1), ergm (>= 3.1-0), statnet.common (>= 3.1-0)
+Description: Integrates graphlet statistics based model terms for use in exponential-family random graph models ('ergm') as part of the 'statnet' suite of packages.
+License: GPL (>= 2)
+NeedsCompilation: yes
+Date/Publication: 2015-06-11 18:31:38
+Author: Omer Nebil Yaveroglu [aut, cre],
+  Sean M. Fitzhugh [aut],
+  Maciej Kurant [aut],
+  Athina Markopoulou [aut],
+  Natasa Przulj [aut],
+  Carter T. Butts [aut]
+Maintainer: Carter T. Butts <buttsc@uci.edu>
