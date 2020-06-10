@@ -1,5 +1,9 @@
 # ergm.graphlets
 
+<!-- badges: start -->
+[![R build status](https://github.com/mbojan/ergm.graphlets/workflows/R-CMD-check/badge.svg)](https://github.com/mbojan/ergm.graphlets/actions)
+<!-- badges: end -->
+  
 ### Graphlet Statistics for the ergm statnet Package
 
 The ergm.graphlets package adds support for various graphlet statistics (including graphlet counts, local automorphism orbits, and inner products of orbit degrees with exogenous covariates) to the ergm toolchain within the statnet library.  Originally hosted on CRAN, the package became unavailable when the original maintainer (Ömer Yaveroğlu, who wrote the majority of the original code) went on to other activities; this archive is intended to provide an alternative source for the package.
