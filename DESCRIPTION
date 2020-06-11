@@ -1,8 +1,8 @@
 Package: ergm.graphlets
 Type: Package
 Title: ERG Modeling Based on Graphlet Properties
-Version: 1.0.4
-Date: 2020-03-05
+Version: 1.0.5
+Date: 2020-06-11
 Authors@R: c( person("Omer Nebil", "Yaveroglu", role=c("aut"), email="o.yaveroglu10@imperial.ac.uk"), 
         person("Sean M.", "Fitzhugh", role=c("aut"), email="sean.fitzhugh@uci.edu"), 
         person("Maciej", "Kurant", role=c("aut"), email="maciej.kurant@gmail.com"), 
