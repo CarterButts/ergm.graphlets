@@ -13,7 +13,7 @@ LinkingTo: ergm
 Suggests: parallel, rlecuyer
 Depends: network (>= 1.7-1), ergm (>= 3.1-0), statnet.common (>= 3.1-0)
 Description: Integrates graphlet statistics based model terms for use in exponential-family random graph models ('ergm') as part of the 'statnet' suite of packages.
-License: GPL (>= 2) + file LICENSE
+License: GPL (>= 2)
 NeedsCompilation: yes
 Date/Publication: 2015-06-11 18:31:38
 Author: Omer Nebil Yaveroglu [aut, cre],
