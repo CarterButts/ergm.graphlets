@@ -1,7 +1,7 @@
 # ergm.graphlets
 
 <!-- badges: start -->
-[![R build status](https://github.com/mbojan/ergm.graphlets/workflows/R-CMD-check/badge.svg)](https://github.com/mbojan/ergm.graphlets/actions)
+[![R build status](https://github.com/CarterButts/ergm.graphlets/workflows/R-CMD-check/badge.svg)](https://github.com/CarterButts/ergm.graphlets/actions)
 <!-- badges: end -->
   
 ### Graphlet Statistics for the ergm statnet Package
