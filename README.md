@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/CarterButts/ergm.graphlets/workflows/R-CMD-check/badge.svg)](https://github.com/CarterButts/ergm.graphlets/actions)
+[![CRAN status](https://www.r-pkg.org/badges/version/ergm.graphlets)](https://CRAN.R-project.org/package=ergm.graphlets)
 <!-- badges: end -->
   
 ### Graphlet Statistics for the ergm statnet Package
