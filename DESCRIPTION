@@ -16,10 +16,3 @@ Description: Integrates graphlet statistics based model terms for use in exponen
 License: GPL (>= 2)
 NeedsCompilation: yes
 Date/Publication: 2015-06-11 18:31:38
-Author: Omer Nebil Yaveroglu [aut, cre],
-  Sean M. Fitzhugh [aut],
-  Maciej Kurant [aut],
-  Athina Markopoulou [aut],
-  Natasa Przulj [aut],
-  Carter T. Butts [aut]
-Maintainer: Carter T. Butts <buttsc@uci.edu>
