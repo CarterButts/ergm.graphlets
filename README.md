@@ -18,7 +18,9 @@ More information regarding the package and its use may be found both within the 
 
 To install the ergm.graphlets package from the comfort of your own home or office, first ensure that you have the `devtools` package installed and loaded.  Then, type the following:
 
-	install_github("carterbutts/ergm.graphlets", subdir="ergm.graphlets")
+```r
+remotes::install_github("carterbutts/ergm.graphlets")
+```
 
 Alternately, cloning this repository and building/installing the package locally is another option.  But in that case, you don't need my help to tell you what to do, now do you?
 
