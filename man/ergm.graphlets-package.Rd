@@ -40,7 +40,7 @@ Omer N. Yaveroglu, Sean M. Fitzhugh, Maciej Kurant, Athina Markopoulou,
 Carter T. Butts, Natasa Przulj. 2013
 \emph{ergm.graphlets: A Package for ERG Modeling Based on Graphlet Statistics}
 \cr
-\url{http://CRAN.R-project.org/package=ergm.graphlets}.
+\url{https://CRAN.R-project.org/package=ergm.graphlets}.
 
 We have invested a lot of time and effort in developing the \code{ergm.graphlets} package. 
 Please cite it in all papers where it is used.
