@@ -17,7 +17,7 @@ More information regarding the package and its use may be found both within the 
 
 ## Installing Within R
 
-To install the ergm.graphlets package from the comfort of your own home or office, first ensure that you have the `devtools` package installed and loaded.  Then, type the following:
+To install the ergm.graphlets package from the comfort of your own home or office, first ensure that you have the `remotes` package installed. Then, type the following:
 
 ```r
 remotes::install_github("carterbutts/ergm.graphlets")
