@@ -4,9 +4,9 @@
 %  This software is distributed under the GPL-2 license.  It is free,
 %  open source.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\name{emon3}
+\name{emon.3}
 \alias{EMON}
-\alias{emon3}
+\alias{emon.3}
 \docType{data}
 \title{EMON Dataset}
 \description{
